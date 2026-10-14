@@ -1,0 +1,3253 @@
+{
+ "U+0020": {
+  "glyph": "space",
+  "blend": {}
+ },
+ "U+0021": {
+  "glyph": "exclam",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+0022": {
+  "glyph": "quotedbl",
+  "blend": {
+   "drawn-straight-upright": 1.0
+  }
+ },
+ "U+0023": {
+  "glyph": "numbersign",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+0024": {
+  "glyph": "dollar",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+0025": {
+  "glyph": "percent",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+0026": {
+  "glyph": "ampersand",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+0027": {
+  "glyph": "quotesingle",
+  "blend": {
+   "drawn-straight-upright": 1.0
+  }
+ },
+ "U+0028": {
+  "glyph": "parenleft",
+  "blend": {
+   "google-sans-code": 1.0
+  }
+ },
+ "U+0029": {
+  "glyph": "parenright",
+  "blend": {
+   "google-sans-code": 1.0
+  }
+ },
+ "U+002A": {
+  "glyph": "asterisk",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+002B": {
+  "glyph": "plus",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+002C": {
+  "glyph": "comma",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+002D": {
+  "glyph": "hyphen",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+002E": {
+  "glyph": "period",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+002F": {
+  "glyph": "slash",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+0030": {
+  "glyph": "zero",
+  "blend": {
+   "hack-upright": 1.0
+  }
+ },
+ "U+0031": {
+  "glyph": "one",
+  "blend": {
+   "hack": 0.36,
+   "maple": 0.34,
+   "martian": 0.3
+  }
+ },
+ "U+0032": {
+  "glyph": "two",
+  "blend": {
+   "hack": 0.36,
+   "maple": 0.34,
+   "martian": 0.3
+  }
+ },
+ "U+0033": {
+  "glyph": "three",
+  "blend": {
+   "hack": 0.51,
+   "maple": 0.49
+  }
+ },
+ "U+0034": {
+  "glyph": "four",
+  "blend": {
+   "hack": 0.51,
+   "maple": 0.49
+  }
+ },
+ "U+0035": {
+  "glyph": "five",
+  "blend": {
+   "hack": 0.51,
+   "maple": 0.49
+  }
+ },
+ "U+0036": {
+  "glyph": "six",
+  "blend": {
+   "hack": 1.0
+  }
+ },
+ "U+0037": {
+  "glyph": "seven",
+  "blend": {
+   "hack": 0.36,
+   "maple": 0.34,
+   "martian": 0.3
+  }
+ },
+ "U+0038": {
+  "glyph": "eight",
+  "blend": {
+   "hack": 0.36,
+   "maple": 0.34,
+   "martian": 0.3
+  }
+ },
+ "U+0039": {
+  "glyph": "nine",
+  "blend": {
+   "hack": 0.51,
+   "maple": 0.49
+  }
+ },
+ "U+003A": {
+  "glyph": "colon",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+003B": {
+  "glyph": "semicolon",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+003C": {
+  "glyph": "less",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+003D": {
+  "glyph": "equal",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+003E": {
+  "glyph": "greater",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+003F": {
+  "glyph": "question",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+0040": {
+  "glyph": "at",
+  "blend": {
+   "hack": 1.0
+  }
+ },
+ "U+0041": {
+  "glyph": "A",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0042": {
+  "glyph": "B",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+0043": {
+  "glyph": "C",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+0044": {
+  "glyph": "D",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+0045": {
+  "glyph": "E",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+0046": {
+  "glyph": "F",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0047": {
+  "glyph": "G",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0048": {
+  "glyph": "H",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+0049": {
+  "glyph": "I",
+  "blend": {
+   "maple": 0.36,
+   "martian": 0.34,
+   "hack": 0.3
+  }
+ },
+ "U+004A": {
+  "glyph": "J",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+004B": {
+  "glyph": "K",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+004C": {
+  "glyph": "L",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+004D": {
+  "glyph": "M",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+004E": {
+  "glyph": "N",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+004F": {
+  "glyph": "O",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+0050": {
+  "glyph": "P",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+0051": {
+  "glyph": "Q",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+0052": {
+  "glyph": "R",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+0053": {
+  "glyph": "S",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+0054": {
+  "glyph": "T",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+0055": {
+  "glyph": "U",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+0056": {
+  "glyph": "V",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+0057": {
+  "glyph": "W",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+0058": {
+  "glyph": "X",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0059": {
+  "glyph": "Y",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+005A": {
+  "glyph": "Z",
+  "blend": {
+   "maple": 0.36,
+   "martian": 0.34,
+   "hack": 0.3
+  }
+ },
+ "U+005B": {
+  "glyph": "bracketleft",
+  "blend": {
+   "google-sans-code": 1.0
+  }
+ },
+ "U+005C": {
+  "glyph": "backslash",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+005D": {
+  "glyph": "bracketright",
+  "blend": {
+   "google-sans-code": 1.0
+  }
+ },
+ "U+005E": {
+  "glyph": "asciicircum",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+005F": {
+  "glyph": "underscore",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+0060": {
+  "glyph": "grave",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+0061": {
+  "glyph": "a",
+  "blend": {
+   "upright-reference": 1.0
+  }
+ },
+ "U+0062": {
+  "glyph": "b",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0063": {
+  "glyph": "c",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0064": {
+  "glyph": "d",
+  "blend": {
+   "maple": 0.68,
+   "martian": 0.32
+  }
+ },
+ "U+0065": {
+  "glyph": "e",
+  "blend": {
+   "maple": 0.5,
+   "hack": 0.27,
+   "martian": 0.23
+  }
+ },
+ "U+0066": {
+  "glyph": "f",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0067": {
+  "glyph": "g",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+0068": {
+  "glyph": "h",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0069": {
+  "glyph": "i",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+006A": {
+  "glyph": "j",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+006B": {
+  "glyph": "k",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+006C": {
+  "glyph": "l",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+006D": {
+  "glyph": "m",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+006E": {
+  "glyph": "n",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+006F": {
+  "glyph": "o",
+  "blend": {
+   "drawn-script-upright": 1.0
+  }
+ },
+ "U+0070": {
+  "glyph": "p",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0071": {
+  "glyph": "q",
+  "blend": {
+   "maple": 0.5,
+   "hack": 0.27,
+   "martian": 0.23
+  }
+ },
+ "U+0072": {
+  "glyph": "r",
+  "blend": {
+   "drawn-script-upright": 1.0
+  }
+ },
+ "U+0073": {
+  "glyph": "s",
+  "blend": {
+   "drawn-script-upright": 1.0
+  }
+ },
+ "U+0074": {
+  "glyph": "t",
+  "blend": {
+   "maple": 0.68,
+   "martian": 0.32
+  }
+ },
+ "U+0075": {
+  "glyph": "u",
+  "blend": {
+   "maple": 0.65,
+   "hack": 0.35
+  }
+ },
+ "U+0076": {
+  "glyph": "v",
+  "blend": {
+   "maple": 0.65,
+   "hack": 0.35
+  }
+ },
+ "U+0077": {
+  "glyph": "w",
+  "blend": {
+   "maple": 0.65,
+   "hack": 0.35
+  }
+ },
+ "U+0078": {
+  "glyph": "x",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0079": {
+  "glyph": "y",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+007A": {
+  "glyph": "z",
+  "blend": {
+   "maple": 0.68,
+   "martian": 0.32
+  }
+ },
+ "U+007B": {
+  "glyph": "braceleft",
+  "blend": {
+   "google-sans-code": 1.0
+  }
+ },
+ "U+007C": {
+  "glyph": "bar",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+007D": {
+  "glyph": "braceright",
+  "blend": {
+   "google-sans-code": 1.0
+  }
+ },
+ "U+007E": {
+  "glyph": "asciitilde",
+  "blend": {
+   "google-sans-code-exact": 1.0
+  }
+ },
+ "U+00A0": {
+  "glyph": "uni00A0",
+  "blend": {}
+ },
+ "U+00A1": {
+  "glyph": "exclamdown",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+00A2": {
+  "glyph": "cent",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+00A3": {
+  "glyph": "sterling",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+00A4": {
+  "glyph": "currency",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+00A5": {
+  "glyph": "yen",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+00A6": {
+  "glyph": "brokenbar",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+00A7": {
+  "glyph": "section",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+00A8": {
+  "glyph": "dieresis",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+00A9": {
+  "glyph": "copyright",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+00AA": {
+  "glyph": "ordfeminine",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+00AB": {
+  "glyph": "guillemotleft",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+00AC": {
+  "glyph": "logicalnot",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+00AD": {
+  "glyph": "uni00AD",
+  "blend": {
+   "hack": 1.0
+  }
+ },
+ "U+00AE": {
+  "glyph": "registered",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+00AF": {
+  "glyph": "macron",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+00B0": {
+  "glyph": "degree",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+00B1": {
+  "glyph": "plusminus",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+00B2": {
+  "glyph": "uni00B2",
+  "blend": {
+   "hack": 1.0
+  }
+ },
+ "U+00B3": {
+  "glyph": "uni00B3",
+  "blend": {
+   "hack": 1.0
+  }
+ },
+ "U+00B4": {
+  "glyph": "acute",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+00B5": {
+  "glyph": "mu",
+  "blend": {
+   "maple": 0.65,
+   "hack": 0.35
+  }
+ },
+ "U+00B6": {
+  "glyph": "paragraph",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+00B7": {
+  "glyph": "periodcentered",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+00B8": {
+  "glyph": "cedilla",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+00B9": {
+  "glyph": "uni00B9",
+  "blend": {
+   "hack": 1.0
+  }
+ },
+ "U+00BA": {
+  "glyph": "ordmasculine",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+00BB": {
+  "glyph": "guillemotright",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+00BC": {
+  "glyph": "onequarter",
+  "blend": {
+   "hack": 1.0
+  }
+ },
+ "U+00BD": {
+  "glyph": "onehalf",
+  "blend": {
+   "hack": 1.0
+  }
+ },
+ "U+00BE": {
+  "glyph": "threequarters",
+  "blend": {
+   "hack": 1.0
+  }
+ },
+ "U+00BF": {
+  "glyph": "questiondown",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+00C0": {
+  "glyph": "Agrave",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+00C1": {
+  "glyph": "Aacute",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+00C2": {
+  "glyph": "Acircumflex",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+00C3": {
+  "glyph": "Atilde",
+  "blend": {
+   "google-sans-code-tilde": 1.0
+  }
+ },
+ "U+00C4": {
+  "glyph": "Adieresis",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+00C5": {
+  "glyph": "Aring",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+00C6": {
+  "glyph": "AE",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+00C7": {
+  "glyph": "Ccedilla",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+00C8": {
+  "glyph": "Egrave",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+00C9": {
+  "glyph": "Eacute",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+00CA": {
+  "glyph": "Ecircumflex",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+00CB": {
+  "glyph": "Edieresis",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+00CC": {
+  "glyph": "Igrave",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+00CD": {
+  "glyph": "Iacute",
+  "blend": {
+   "maple": 0.36,
+   "martian": 0.34,
+   "hack": 0.3
+  }
+ },
+ "U+00CE": {
+  "glyph": "Icircumflex",
+  "blend": {
+   "maple": 0.36,
+   "martian": 0.34,
+   "hack": 0.3
+  }
+ },
+ "U+00CF": {
+  "glyph": "Idieresis",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+00D0": {
+  "glyph": "Eth",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+00D1": {
+  "glyph": "Ntilde",
+  "blend": {
+   "google-sans-code-tilde": 1.0
+  }
+ },
+ "U+00D2": {
+  "glyph": "Ograve",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+00D3": {
+  "glyph": "Oacute",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+00D4": {
+  "glyph": "Ocircumflex",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+00D5": {
+  "glyph": "Otilde",
+  "blend": {
+   "google-sans-code-tilde": 1.0
+  }
+ },
+ "U+00D6": {
+  "glyph": "Odieresis",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+00D7": {
+  "glyph": "multiply",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+00D8": {
+  "glyph": "Oslash",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+00D9": {
+  "glyph": "Ugrave",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+00DA": {
+  "glyph": "Uacute",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+00DB": {
+  "glyph": "Ucircumflex",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+00DC": {
+  "glyph": "Udieresis",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+00DD": {
+  "glyph": "Yacute",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+00DE": {
+  "glyph": "Thorn",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+00DF": {
+  "glyph": "germandbls",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+00E0": {
+  "glyph": "agrave",
+  "blend": {
+   "upright-reference": 1.0
+  }
+ },
+ "U+00E1": {
+  "glyph": "aacute",
+  "blend": {
+   "upright-reference": 1.0
+  }
+ },
+ "U+00E2": {
+  "glyph": "acircumflex",
+  "blend": {
+   "upright-reference": 1.0
+  }
+ },
+ "U+00E3": {
+  "glyph": "atilde",
+  "blend": {
+   "upright-reference": 1.0
+  }
+ },
+ "U+00E4": {
+  "glyph": "adieresis",
+  "blend": {
+   "upright-reference": 1.0
+  }
+ },
+ "U+00E5": {
+  "glyph": "aring",
+  "blend": {
+   "upright-reference": 1.0
+  }
+ },
+ "U+00E6": {
+  "glyph": "ae",
+  "blend": {
+   "maple": 0.65,
+   "hack": 0.35
+  }
+ },
+ "U+00E7": {
+  "glyph": "ccedilla",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+00E8": {
+  "glyph": "egrave",
+  "blend": {
+   "maple": 0.65,
+   "hack": 0.35
+  }
+ },
+ "U+00E9": {
+  "glyph": "eacute",
+  "blend": {
+   "maple": 0.5,
+   "hack": 0.27,
+   "martian": 0.23
+  }
+ },
+ "U+00EA": {
+  "glyph": "ecircumflex",
+  "blend": {
+   "maple": 0.65,
+   "hack": 0.35
+  }
+ },
+ "U+00EB": {
+  "glyph": "edieresis",
+  "blend": {
+   "maple": 0.65,
+   "hack": 0.35
+  }
+ },
+ "U+00EC": {
+  "glyph": "igrave",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+00ED": {
+  "glyph": "iacute",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+00EE": {
+  "glyph": "icircumflex",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+00EF": {
+  "glyph": "idieresis",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+00F0": {
+  "glyph": "eth",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+00F1": {
+  "glyph": "ntilde",
+  "blend": {
+   "google-sans-code-tilde": 1.0
+  }
+ },
+ "U+00F2": {
+  "glyph": "ograve",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+00F3": {
+  "glyph": "oacute",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+00F4": {
+  "glyph": "ocircumflex",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+00F5": {
+  "glyph": "otilde",
+  "blend": {
+   "google-sans-code-tilde": 1.0
+  }
+ },
+ "U+00F6": {
+  "glyph": "odieresis",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+00F7": {
+  "glyph": "divide",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+00F8": {
+  "glyph": "oslash",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+00F9": {
+  "glyph": "ugrave",
+  "blend": {
+   "maple": 0.65,
+   "hack": 0.35
+  }
+ },
+ "U+00FA": {
+  "glyph": "uacute",
+  "blend": {
+   "maple": 0.65,
+   "hack": 0.35
+  }
+ },
+ "U+00FB": {
+  "glyph": "ucircumflex",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+00FC": {
+  "glyph": "udieresis",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+00FD": {
+  "glyph": "yacute",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+00FE": {
+  "glyph": "thorn",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+00FF": {
+  "glyph": "ydieresis",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0100": {
+  "glyph": "Amacron",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0101": {
+  "glyph": "amacron",
+  "blend": {
+   "upright-reference": 1.0
+  }
+ },
+ "U+0102": {
+  "glyph": "Abreve",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0103": {
+  "glyph": "abreve",
+  "blend": {
+   "upright-reference": 1.0
+  }
+ },
+ "U+0104": {
+  "glyph": "Aogonek",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0105": {
+  "glyph": "aogonek",
+  "blend": {
+   "upright-reference": 1.0
+  }
+ },
+ "U+0106": {
+  "glyph": "Cacute",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0107": {
+  "glyph": "cacute",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+010A": {
+  "glyph": "Cdotaccent",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+010B": {
+  "glyph": "cdotaccent",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+010C": {
+  "glyph": "Ccaron",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+010D": {
+  "glyph": "ccaron",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+010E": {
+  "glyph": "Dcaron",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+010F": {
+  "glyph": "dcaron",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0110": {
+  "glyph": "Dcroat",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+0111": {
+  "glyph": "dcroat",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0112": {
+  "glyph": "Emacron",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+0113": {
+  "glyph": "emacron",
+  "blend": {
+   "maple": 0.5,
+   "hack": 0.27,
+   "martian": 0.23
+  }
+ },
+ "U+0116": {
+  "glyph": "Edotaccent",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+0117": {
+  "glyph": "edotaccent",
+  "blend": {
+   "maple": 0.5,
+   "hack": 0.27,
+   "martian": 0.23
+  }
+ },
+ "U+0118": {
+  "glyph": "Eogonek",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+0119": {
+  "glyph": "eogonek",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+011A": {
+  "glyph": "Ecaron",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+011B": {
+  "glyph": "ecaron",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+011E": {
+  "glyph": "Gbreve",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+011F": {
+  "glyph": "gbreve",
+  "blend": {
+   "maple": 0.65,
+   "hack": 0.35
+  }
+ },
+ "U+0120": {
+  "glyph": "Gdotaccent",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0121": {
+  "glyph": "gdotaccent",
+  "blend": {
+   "maple": 0.65,
+   "hack": 0.35
+  }
+ },
+ "U+0122": {
+  "glyph": "uni0122",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0123": {
+  "glyph": "uni0123",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0126": {
+  "glyph": "Hbar",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+0127": {
+  "glyph": "hbar",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0128": {
+  "glyph": "Itilde",
+  "blend": {
+   "google-sans-code-tilde": 1.0
+  }
+ },
+ "U+0129": {
+  "glyph": "itilde",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+012A": {
+  "glyph": "Imacron",
+  "blend": {
+   "maple": 0.36,
+   "martian": 0.34,
+   "hack": 0.3
+  }
+ },
+ "U+012B": {
+  "glyph": "imacron",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+012E": {
+  "glyph": "Iogonek",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+012F": {
+  "glyph": "iogonek",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0130": {
+  "glyph": "Idotaccent",
+  "blend": {
+   "maple": 0.36,
+   "martian": 0.34,
+   "hack": 0.3
+  }
+ },
+ "U+0131": {
+  "glyph": "dotlessi",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0132": {
+  "glyph": "IJ",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0133": {
+  "glyph": "ij",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0136": {
+  "glyph": "uni0136",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0137": {
+  "glyph": "uni0137",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0138": {
+  "glyph": "kgreenlandic",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0139": {
+  "glyph": "Lacute",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+013A": {
+  "glyph": "lacute",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+013B": {
+  "glyph": "uni013B",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+013C": {
+  "glyph": "uni013C",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+013D": {
+  "glyph": "Lcaron",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+013E": {
+  "glyph": "lcaron",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+013F": {
+  "glyph": "Ldot",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+0140": {
+  "glyph": "ldot",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0141": {
+  "glyph": "Lslash",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+0142": {
+  "glyph": "lslash",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0143": {
+  "glyph": "Nacute",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+0144": {
+  "glyph": "nacute",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0145": {
+  "glyph": "uni0145",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+0146": {
+  "glyph": "uni0146",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0147": {
+  "glyph": "Ncaron",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+0148": {
+  "glyph": "ncaron",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+014A": {
+  "glyph": "Eng",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+014B": {
+  "glyph": "eng",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+014C": {
+  "glyph": "Omacron",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+014D": {
+  "glyph": "omacron",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0150": {
+  "glyph": "Ohungarumlaut",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+0151": {
+  "glyph": "ohungarumlaut",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0152": {
+  "glyph": "OE",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0153": {
+  "glyph": "oe",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0154": {
+  "glyph": "Racute",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+0155": {
+  "glyph": "racute",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0156": {
+  "glyph": "uni0156",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+0157": {
+  "glyph": "uni0157",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0158": {
+  "glyph": "Rcaron",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+0159": {
+  "glyph": "rcaron",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+015A": {
+  "glyph": "Sacute",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+015B": {
+  "glyph": "sacute",
+  "blend": {
+   "maple": 0.5,
+   "hack": 0.27,
+   "martian": 0.23
+  }
+ },
+ "U+015E": {
+  "glyph": "Scedilla",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+015F": {
+  "glyph": "scedilla",
+  "blend": {
+   "maple": 0.68,
+   "martian": 0.32
+  }
+ },
+ "U+0160": {
+  "glyph": "Scaron",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+0161": {
+  "glyph": "scaron",
+  "blend": {
+   "maple": 0.68,
+   "martian": 0.32
+  }
+ },
+ "U+0162": {
+  "glyph": "uni0162",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+0163": {
+  "glyph": "uni0163",
+  "blend": {
+   "maple": 0.68,
+   "martian": 0.32
+  }
+ },
+ "U+0164": {
+  "glyph": "Tcaron",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+0165": {
+  "glyph": "tcaron",
+  "blend": {
+   "maple": 0.68,
+   "martian": 0.32
+  }
+ },
+ "U+0166": {
+  "glyph": "Tbar",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+0167": {
+  "glyph": "tbar",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0168": {
+  "glyph": "Utilde",
+  "blend": {
+   "google-sans-code-tilde": 1.0
+  }
+ },
+ "U+0169": {
+  "glyph": "utilde",
+  "blend": {
+   "google-sans-code-tilde": 1.0
+  }
+ },
+ "U+016A": {
+  "glyph": "Umacron",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+016B": {
+  "glyph": "umacron",
+  "blend": {
+   "maple": 0.68,
+   "martian": 0.32
+  }
+ },
+ "U+016C": {
+  "glyph": "Ubreve",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+016D": {
+  "glyph": "ubreve",
+  "blend": {
+   "maple": 0.65,
+   "hack": 0.35
+  }
+ },
+ "U+016E": {
+  "glyph": "Uring",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+016F": {
+  "glyph": "uring",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0170": {
+  "glyph": "Uhungarumlaut",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0171": {
+  "glyph": "uhungarumlaut",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0172": {
+  "glyph": "Uogonek",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+0173": {
+  "glyph": "uogonek",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0174": {
+  "glyph": "Wcircumflex",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0175": {
+  "glyph": "wcircumflex",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0176": {
+  "glyph": "Ycircumflex",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0177": {
+  "glyph": "ycircumflex",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0178": {
+  "glyph": "Ydieresis",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0179": {
+  "glyph": "Zacute",
+  "blend": {
+   "maple": 0.36,
+   "martian": 0.34,
+   "hack": 0.3
+  }
+ },
+ "U+017A": {
+  "glyph": "zacute",
+  "blend": {
+   "maple": 0.68,
+   "martian": 0.32
+  }
+ },
+ "U+017B": {
+  "glyph": "Zdotaccent",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+017C": {
+  "glyph": "zdotaccent",
+  "blend": {
+   "maple": 0.68,
+   "martian": 0.32
+  }
+ },
+ "U+017D": {
+  "glyph": "Zcaron",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+017E": {
+  "glyph": "zcaron",
+  "blend": {
+   "maple": 0.68,
+   "martian": 0.32
+  }
+ },
+ "U+018F": {
+  "glyph": "uni018F",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0192": {
+  "glyph": "florin",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+019D": {
+  "glyph": "uni019D",
+  "blend": {
+   "martian": 1.0
+  }
+ },
+ "U+01CD": {
+  "glyph": "uni01CD",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+01CE": {
+  "glyph": "uni01CE",
+  "blend": {
+   "upright-reference": 1.0
+  }
+ },
+ "U+01E6": {
+  "glyph": "Gcaron",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+01E7": {
+  "glyph": "gcaron",
+  "blend": {
+   "maple": 0.65,
+   "hack": 0.35
+  }
+ },
+ "U+01FA": {
+  "glyph": "Aringacute",
+  "blend": {
+   "martian": 1.0
+  }
+ },
+ "U+01FB": {
+  "glyph": "aringacute",
+  "blend": {
+   "upright-reference": 1.0
+  }
+ },
+ "U+01FC": {
+  "glyph": "AEacute",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+01FD": {
+  "glyph": "aeacute",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+01FE": {
+  "glyph": "Oslashacute",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+01FF": {
+  "glyph": "oslashacute",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0218": {
+  "glyph": "uni0218",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+0219": {
+  "glyph": "uni0219",
+  "blend": {
+   "maple": 0.68,
+   "martian": 0.32
+  }
+ },
+ "U+021A": {
+  "glyph": "uni021A",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+021B": {
+  "glyph": "uni021B",
+  "blend": {
+   "maple": 0.68,
+   "martian": 0.32
+  }
+ },
+ "U+0232": {
+  "glyph": "uni0232",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0233": {
+  "glyph": "uni0233",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0237": {
+  "glyph": "uni0237",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0259": {
+  "glyph": "uni0259",
+  "blend": {
+   "maple": 0.68,
+   "martian": 0.32
+  }
+ },
+ "U+0272": {
+  "glyph": "uni0272",
+  "blend": {
+   "martian": 1.0
+  }
+ },
+ "U+02BC": {
+  "glyph": "uni02BC",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+02C6": {
+  "glyph": "circumflex",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+02C7": {
+  "glyph": "caron",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+02D8": {
+  "glyph": "breve",
+  "blend": {
+   "hack": 0.55,
+   "martian": 0.45
+  }
+ },
+ "U+02D9": {
+  "glyph": "dotaccent",
+  "blend": {
+   "hack": 1.0
+  }
+ },
+ "U+02DA": {
+  "glyph": "ring",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+02DB": {
+  "glyph": "ogonek",
+  "blend": {
+   "hack": 1.0
+  }
+ },
+ "U+02DC": {
+  "glyph": "tilde",
+  "blend": {
+   "google-sans-code-exact": 1.0
+  }
+ },
+ "U+02DD": {
+  "glyph": "hungarumlaut",
+  "blend": {
+   "hack": 1.0
+  }
+ },
+ "U+0300": {
+  "glyph": "gravecomb",
+  "blend": {
+   "hack": 0.51,
+   "maple": 0.49
+  }
+ },
+ "U+0301": {
+  "glyph": "acutecomb",
+  "blend": {
+   "hack": 1.0
+  }
+ },
+ "U+0302": {
+  "glyph": "uni0302",
+  "blend": {
+   "hack": 1.0
+  }
+ },
+ "U+0303": {
+  "glyph": "tildecomb",
+  "blend": {
+   "google-sans-code-exact": 1.0
+  }
+ },
+ "U+0304": {
+  "glyph": "uni0304",
+  "blend": {
+   "hack": 0.51,
+   "maple": 0.49
+  }
+ },
+ "U+0306": {
+  "glyph": "uni0306",
+  "blend": {
+   "hack": 1.0
+  }
+ },
+ "U+0307": {
+  "glyph": "uni0307",
+  "blend": {
+   "hack": 1.0
+  }
+ },
+ "U+0308": {
+  "glyph": "uni0308",
+  "blend": {
+   "hack": 1.0
+  }
+ },
+ "U+030A": {
+  "glyph": "uni030A",
+  "blend": {
+   "hack": 1.0
+  }
+ },
+ "U+030B": {
+  "glyph": "uni030B",
+  "blend": {
+   "hack": 1.0
+  }
+ },
+ "U+030C": {
+  "glyph": "uni030C",
+  "blend": {
+   "hack": 1.0
+  }
+ },
+ "U+0312": {
+  "glyph": "uni0312",
+  "blend": {
+   "hack": 1.0
+  }
+ },
+ "U+0323": {
+  "glyph": "dotbelowcomb",
+  "blend": {
+   "hack": 1.0
+  }
+ },
+ "U+0326": {
+  "glyph": "uni0326",
+  "blend": {
+   "hack": 0.51,
+   "maple": 0.49
+  }
+ },
+ "U+0327": {
+  "glyph": "uni0327",
+  "blend": {
+   "hack": 1.0
+  }
+ },
+ "U+0328": {
+  "glyph": "uni0328",
+  "blend": {
+   "hack": 1.0
+  }
+ },
+ "U+0401": {
+  "glyph": "uni0401",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+0404": {
+  "glyph": "uni0404",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+0406": {
+  "glyph": "uni0406",
+  "blend": {
+   "maple": 0.36,
+   "martian": 0.34,
+   "hack": 0.3
+  }
+ },
+ "U+0407": {
+  "glyph": "uni0407",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+040E": {
+  "glyph": "uni040E",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0410": {
+  "glyph": "uni0410",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0411": {
+  "glyph": "uni0411",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+0412": {
+  "glyph": "uni0412",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+0413": {
+  "glyph": "uni0413",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+0414": {
+  "glyph": "uni0414",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+0415": {
+  "glyph": "uni0415",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+0416": {
+  "glyph": "uni0416",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0417": {
+  "glyph": "uni0417",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+0418": {
+  "glyph": "uni0418",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+0419": {
+  "glyph": "uni0419",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+041A": {
+  "glyph": "uni041A",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+041B": {
+  "glyph": "uni041B",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+041C": {
+  "glyph": "uni041C",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+041D": {
+  "glyph": "uni041D",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+041E": {
+  "glyph": "uni041E",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+041F": {
+  "glyph": "uni041F",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+0420": {
+  "glyph": "uni0420",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+0421": {
+  "glyph": "uni0421",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+0422": {
+  "glyph": "uni0422",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0423": {
+  "glyph": "uni0423",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0424": {
+  "glyph": "uni0424",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+0425": {
+  "glyph": "uni0425",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0426": {
+  "glyph": "uni0426",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0427": {
+  "glyph": "uni0427",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0428": {
+  "glyph": "uni0428",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+0429": {
+  "glyph": "uni0429",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+042A": {
+  "glyph": "uni042A",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+042B": {
+  "glyph": "uni042B",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+042C": {
+  "glyph": "uni042C",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+042D": {
+  "glyph": "uni042D",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+042E": {
+  "glyph": "uni042E",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+042F": {
+  "glyph": "uni042F",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0430": {
+  "glyph": "uni0430",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0431": {
+  "glyph": "uni0431",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0432": {
+  "glyph": "uni0432",
+  "blend": {
+   "maple": 0.65,
+   "hack": 0.35
+  }
+ },
+ "U+0433": {
+  "glyph": "uni0433",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0434": {
+  "glyph": "uni0434",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0435": {
+  "glyph": "uni0435",
+  "blend": {
+   "maple": 0.5,
+   "hack": 0.27,
+   "martian": 0.23
+  }
+ },
+ "U+0436": {
+  "glyph": "uni0436",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0437": {
+  "glyph": "uni0437",
+  "blend": {
+   "maple": 0.65,
+   "hack": 0.35
+  }
+ },
+ "U+0438": {
+  "glyph": "uni0438",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0439": {
+  "glyph": "uni0439",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+043A": {
+  "glyph": "uni043A",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+043B": {
+  "glyph": "uni043B",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+043C": {
+  "glyph": "uni043C",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+043D": {
+  "glyph": "uni043D",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+043E": {
+  "glyph": "uni043E",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+043F": {
+  "glyph": "uni043F",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0440": {
+  "glyph": "uni0440",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0441": {
+  "glyph": "uni0441",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0442": {
+  "glyph": "uni0442",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0443": {
+  "glyph": "uni0443",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0444": {
+  "glyph": "uni0444",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0445": {
+  "glyph": "uni0445",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0446": {
+  "glyph": "uni0446",
+  "blend": {
+   "maple": 0.65,
+   "hack": 0.35
+  }
+ },
+ "U+0447": {
+  "glyph": "uni0447",
+  "blend": {
+   "maple": 0.68,
+   "martian": 0.32
+  }
+ },
+ "U+0448": {
+  "glyph": "uni0448",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0449": {
+  "glyph": "uni0449",
+  "blend": {
+   "maple": 0.68,
+   "martian": 0.32
+  }
+ },
+ "U+044A": {
+  "glyph": "uni044A",
+  "blend": {
+   "maple": 0.65,
+   "hack": 0.35
+  }
+ },
+ "U+044B": {
+  "glyph": "uni044B",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+044C": {
+  "glyph": "uni044C",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+044D": {
+  "glyph": "uni044D",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+044E": {
+  "glyph": "uni044E",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+044F": {
+  "glyph": "uni044F",
+  "blend": {
+   "maple": 0.68,
+   "martian": 0.32
+  }
+ },
+ "U+0451": {
+  "glyph": "uni0451",
+  "blend": {
+   "maple": 0.65,
+   "hack": 0.35
+  }
+ },
+ "U+0454": {
+  "glyph": "uni0454",
+  "blend": {
+   "maple": 0.68,
+   "martian": 0.32
+  }
+ },
+ "U+0456": {
+  "glyph": "uni0456",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0457": {
+  "glyph": "uni0457",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+045E": {
+  "glyph": "uni045E",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+0490": {
+  "glyph": "uni0490",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+0491": {
+  "glyph": "uni0491",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+04AA": {
+  "glyph": "uni04AA",
+  "blend": {
+   "martian": 1.0
+  }
+ },
+ "U+04AB": {
+  "glyph": "uni04AB",
+  "blend": {
+   "hack": 0.54,
+   "martian": 0.46
+  }
+ },
+ "U+04D0": {
+  "glyph": "uni04D0",
+  "blend": {
+   "martian": 1.0
+  }
+ },
+ "U+04D1": {
+  "glyph": "uni04D1",
+  "blend": {
+   "hack": 1.0
+  }
+ },
+ "U+04D2": {
+  "glyph": "uni04D2",
+  "blend": {
+   "hack": 1.0
+  }
+ },
+ "U+04D3": {
+  "glyph": "uni04D3",
+  "blend": {
+   "hack": 1.0
+  }
+ },
+ "U+04D6": {
+  "glyph": "uni04D6",
+  "blend": {
+   "martian": 1.0
+  }
+ },
+ "U+04D7": {
+  "glyph": "uni04D7",
+  "blend": {
+   "hack": 0.54,
+   "martian": 0.46
+  }
+ },
+ "U+04F2": {
+  "glyph": "uni04F2",
+  "blend": {
+   "martian": 1.0
+  }
+ },
+ "U+04F3": {
+  "glyph": "uni04F3",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+1E0C": {
+  "glyph": "uni1E0C",
+  "blend": {
+   "martian": 1.0
+  }
+ },
+ "U+1E0D": {
+  "glyph": "uni1E0D",
+  "blend": {
+   "martian": 1.0
+  }
+ },
+ "U+1E24": {
+  "glyph": "uni1E24",
+  "blend": {
+   "martian": 1.0
+  }
+ },
+ "U+1E25": {
+  "glyph": "uni1E25",
+  "blend": {
+   "martian": 1.0
+  }
+ },
+ "U+1E62": {
+  "glyph": "uni1E62",
+  "blend": {
+   "martian": 1.0
+  }
+ },
+ "U+1E63": {
+  "glyph": "uni1E63",
+  "blend": {
+   "martian": 1.0
+  }
+ },
+ "U+1E6C": {
+  "glyph": "uni1E6C",
+  "blend": {
+   "martian": 1.0
+  }
+ },
+ "U+1E6D": {
+  "glyph": "uni1E6D",
+  "blend": {
+   "martian": 1.0
+  }
+ },
+ "U+1E80": {
+  "glyph": "Wgrave",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+1E81": {
+  "glyph": "wgrave",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+1E82": {
+  "glyph": "Wacute",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+1E83": {
+  "glyph": "wacute",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+1E84": {
+  "glyph": "Wdieresis",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+1E85": {
+  "glyph": "wdieresis",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+1E92": {
+  "glyph": "uni1E92",
+  "blend": {
+   "martian": 1.0
+  }
+ },
+ "U+1E93": {
+  "glyph": "uni1E93",
+  "blend": {
+   "martian": 1.0
+  }
+ },
+ "U+1E9E": {
+  "glyph": "uni1E9E",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+1EBC": {
+  "glyph": "uni1EBC",
+  "blend": {
+   "google-sans-code-tilde": 1.0
+  }
+ },
+ "U+1EBD": {
+  "glyph": "uni1EBD",
+  "blend": {
+   "google-sans-code-tilde": 1.0
+  }
+ },
+ "U+1ECA": {
+  "glyph": "uni1ECA",
+  "blend": {
+   "maple": 0.51,
+   "martian": 0.49
+  }
+ },
+ "U+1ECB": {
+  "glyph": "uni1ECB",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+1ECC": {
+  "glyph": "uni1ECC",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+1ECD": {
+  "glyph": "uni1ECD",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+1EE4": {
+  "glyph": "uni1EE4",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+1EE5": {
+  "glyph": "uni1EE5",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+1EF2": {
+  "glyph": "Ygrave",
+  "blend": {
+   "maple": 0.55,
+   "hack": 0.45
+  }
+ },
+ "U+1EF3": {
+  "glyph": "ygrave",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+1EF8": {
+  "glyph": "uni1EF8",
+  "blend": {
+   "google-sans-code-tilde": 1.0
+  }
+ },
+ "U+1EF9": {
+  "glyph": "uni1EF9",
+  "blend": {
+   "google-sans-code-tilde": 1.0
+  }
+ },
+ "U+2002": {
+  "glyph": "uni2002",
+  "blend": {}
+ },
+ "U+2003": {
+  "glyph": "uni2003",
+  "blend": {}
+ },
+ "U+2011": {
+  "glyph": "uni2011",
+  "blend": {
+   "hack": 1.0
+  }
+ },
+ "U+2013": {
+  "glyph": "endash",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+2014": {
+  "glyph": "emdash",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+2018": {
+  "glyph": "quoteleft",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+2019": {
+  "glyph": "quoteright",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+201A": {
+  "glyph": "quotesinglbase",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+201C": {
+  "glyph": "quotedblleft",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+201D": {
+  "glyph": "quotedblright",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+201E": {
+  "glyph": "quotedblbase",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+2020": {
+  "glyph": "dagger",
+  "blend": {
+   "hack": 1.0
+  }
+ },
+ "U+2021": {
+  "glyph": "daggerdbl",
+  "blend": {
+   "hack": 1.0
+  }
+ },
+ "U+2022": {
+  "glyph": "bullet",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+2026": {
+  "glyph": "ellipsis",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+2030": {
+  "glyph": "perthousand",
+  "blend": {
+   "hack": 1.0
+  }
+ },
+ "U+2039": {
+  "glyph": "guilsinglleft",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+203A": {
+  "glyph": "guilsinglright",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+2044": {
+  "glyph": "fraction",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+2070": {
+  "glyph": "uni2070",
+  "blend": {
+   "hack": 1.0
+  }
+ },
+ "U+2074": {
+  "glyph": "uni2074",
+  "blend": {
+   "hack": 1.0
+  }
+ },
+ "U+2075": {
+  "glyph": "uni2075",
+  "blend": {
+   "hack": 1.0
+  }
+ },
+ "U+2076": {
+  "glyph": "uni2076",
+  "blend": {
+   "hack": 1.0
+  }
+ },
+ "U+2077": {
+  "glyph": "uni2077",
+  "blend": {
+   "hack": 1.0
+  }
+ },
+ "U+2078": {
+  "glyph": "uni2078",
+  "blend": {
+   "hack": 1.0
+  }
+ },
+ "U+2079": {
+  "glyph": "uni2079",
+  "blend": {
+   "hack": 1.0
+  }
+ },
+ "U+2080": {
+  "glyph": "uni2080",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+2081": {
+  "glyph": "uni2081",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+2082": {
+  "glyph": "uni2082",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+2083": {
+  "glyph": "uni2083",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+2084": {
+  "glyph": "uni2084",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+2085": {
+  "glyph": "uni2085",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+2086": {
+  "glyph": "uni2086",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+2087": {
+  "glyph": "uni2087",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+2088": {
+  "glyph": "uni2088",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+2089": {
+  "glyph": "uni2089",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+20AC": {
+  "glyph": "Euro",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+20B4": {
+  "glyph": "uni20B4",
+  "blend": {
+   "hack": 1.0
+  }
+ },
+ "U+20BD": {
+  "glyph": "uni20BD",
+  "blend": {
+   "maple": 1.0
+  }
+ },
+ "U+2116": {
+  "glyph": "uni2116",
+  "blend": {
+   "hack": 1.0
+  }
+ },
+ "U+2122": {
+  "glyph": "trademark",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+2190": {
+  "glyph": "arrowleft",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+2191": {
+  "glyph": "arrowup",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+2192": {
+  "glyph": "arrowright",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+2193": {
+  "glyph": "arrowdown",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+2212": {
+  "glyph": "minus",
+  "blend": {
+   "google-sans-code-upright": 1.0
+  }
+ },
+ "U+2248": {
+  "glyph": "approxequal",
+  "blend": {
+   "hack": 1.0
+  }
+ },
+ "U+2260": {
+  "glyph": "notequal",
+  "blend": {
+   "hack": 1.0
+  }
+ },
+ "U+A78B": {
+  "glyph": "uniA78B",
+  "blend": {
+   "martian": 1.0
+  }
+ },
+ "U+A78C": {
+  "glyph": "uniA78C",
+  "blend": {
+   "martian": 1.0
+  }
+ }
+}

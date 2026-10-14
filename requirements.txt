@@ -1,0 +1,8 @@
+fonttools[woff]==4.66.1
+Pillow==12.3.0
+brotli==1.2.0
+shapely==2.2.0
+numpy
+scipy
+scikit-image
+opencv-python-headless
